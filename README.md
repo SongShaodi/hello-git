@@ -35,7 +35,7 @@ $\alpha$|step|步长
 ### 梯度下降（Gradient Descent）
 
 　　在监督学习方法中，我们采用最小二乘法对假定函数进行优化，即我们需要最小化评估函数 $J(\theta)$：
-<img src="http://latex.codecogs.com/gif.latex?\ J(\theta) = \sum_{i=1}^n (h_\theta(x_i) - y_i)^2" />
+<img src="http://latex.codecogs.com/gif.latex?\J(\theta)=\sum_{i=1}^n(h_\theta(x_i)-y_i)^2" />
 
 　　其中，$h_\theta(x)$ 表示假定函数， $\theta$表示假定函数中的参数集。
 
